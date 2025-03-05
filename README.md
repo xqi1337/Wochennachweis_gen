@@ -25,8 +25,9 @@ ttkbootstrap – Für eine moderne und anpassbare GUI mit Tkinter.
 openpyxl – Zum Bearbeiten von Excel-Dateien.
 
 Installation:
-Klone das Repository: ```bash
- git clone https://github.com/xqi1337/Wochennachweis_gen.git
+Klone das Repository: 
+
+git clone https://github.com/xqi1337/Wochennachweis_gen.git
 
     cd repository
     
@@ -41,19 +42,20 @@ bash
 ## Verwendung:
 
 1. Starte das Skript:
-    
+
 bash
+
     
     python main.py
-    ``
+    
 
-2. Gib die erforderlichen Informationen über die GUI ein:
+3. Gib die erforderlichen Informationen über die GUI ein:
    - Name, Vorname, Kalenderwoche, KW von, KW bis
    - Links zu den Tagen der Woche (Montag bis Freitag)
 
-3. Klicke auf "Wochennachweis erstellen", um die Excel-Datei zu generieren.
+4. Klicke auf "Wochennachweis erstellen", um die Excel-Datei zu generieren.
 
-4. Der Wochennachweis wird als Excel-Datei gespeichert und kann bei Bedarf weiterverwendet werden.
+5. Der Wochennachweis wird als Excel-Datei gespeichert und kann bei Bedarf weiterverwendet werden.
 
 ## Anpassung der Vorlage:
 - Stelle sicher, dass du eine Excel-Vorlage (Vorlage_Wochennachweis_9h.xlsx) auf deinem Desktop speicherst, um den Wochennachweis korrekt ausfüllen zu können.
