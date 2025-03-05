@@ -2,8 +2,7 @@
 
 Installieren der Pakete aus der requirements.txt (auf einem anderen Computer oder in einer anderen Umgebung):
 
-bash
-Kopieren
+
 pip install -r requirements.txt
 
 
