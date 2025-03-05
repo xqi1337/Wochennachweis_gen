@@ -1,4 +1,4 @@
-# Wochennachweis_gen
+# Wochennachweis_gen für fi-umschulung-2025.vercel.app
 
 Installieren der Pakete aus der requirements.txt (auf einem anderen Computer oder in einer anderen Umgebung):
 
