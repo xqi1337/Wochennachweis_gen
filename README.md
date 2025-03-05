@@ -51,6 +51,7 @@ bash
 3. Gib die erforderlichen Informationen über die GUI ein:
    - Name, Vorname, Kalenderwoche, KW von, KW bis
    - Links zu den Tagen der Woche (Montag bis Freitag)
+     Beispiel: https://fi-umschulung-2025.vercel.app/Lernfeld_2/LF2_11
 
 4. Klicke auf "Wochennachweis erstellen", um die Excel-Datei zu generieren.
 
