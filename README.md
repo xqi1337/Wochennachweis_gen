@@ -25,7 +25,7 @@ ttkbootstrap – Für eine moderne und anpassbare GUI mit Tkinter.
 openpyxl – Zum Bearbeiten von Excel-Dateien.
 
 Installation:
-Klone das Repository:```bash
+Klone das Repository: ```bash
  git clone https://github.com/xqi1337/Wochennachweis_gen.git
 
     cd repository
@@ -33,6 +33,7 @@ Klone das Repository:```bash
 2. Installiere die notwendigen Pakete:
     
 bash
+    
     pip install -r requirements.txt
     
 3. Stelle sicher, dass du ein geeignetes Python-Environment verwendest.
@@ -42,6 +43,7 @@ bash
 1. Starte das Skript:
     
 bash
+    
     python main.py
     ``
 
